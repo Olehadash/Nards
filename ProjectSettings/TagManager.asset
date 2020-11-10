@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Place
+  - Chip
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BoardLayer
+    uniqueID: 3207384985
+    locked: 0
+  - name: PlaceLayer
+    uniqueID: 721241963
+    locked: 0
+  - name: ChipLayer
+    uniqueID: 3765955487
+    locked: 0
+  - name: DiceLayer
+    uniqueID: 3394374879
+    locked: 0
+  - name: GameOver
+    uniqueID: 2018771791
+    locked: 0
